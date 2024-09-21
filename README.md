@@ -3,11 +3,6 @@ W.I.P Console GUI
 
 GUI Inheritance: gui->tabarray(tab1->elementarray(element1),tab2->elementarray(),tab3->elementarray())
 
-Current issues:
-
-```
-- Console flickering when clearing console; Can be fixed with render buffer
-```
 example:
 
 ```cpp
