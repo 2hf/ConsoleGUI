@@ -1,5 +1,5 @@
 # ConsoleGUI
-W.I.P Console GUI
+Simple Console GUI Base
 
 GUI Inheritance: gui->tabarray(tab1->elementarray(element1),tab2->elementarray(),tab3->elementarray())
 
